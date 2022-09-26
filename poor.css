@@ -1,0 +1,274 @@
+p {
+    text-align: center;
+}
+
+
+
+
+.jumbotron {
+    background-image: url('logo/StockSnap_46VCPZQ87W.jpg');
+    background-size: cover;
+    height: 15cm;
+}
+
+.display-4 {
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.title-h5 {
+    size: larger;
+}
+
+.lead {
+    color: antiquewhite;
+}
+
+.my-4 {
+    color: antiquewhite;
+}
+
+.alert {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Raleway', sans-serif;
+    background-color: #404040;
+    color: #fff;
+
+}
+
+
+.tentang {
+    text-align: center;
+    font-size: 40px;
+}
+
+.paragrap {
+    margin-left: 4cm;
+
+}
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+.cards {
+    position: relative;
+    padding: 80px 60px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.cards.style-1 {
+    background: #22262c;
+
+}
+
+.cards .colap {
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex: 0 0 33.333%;
+    -ms-flex: 0 0 33.333%;
+    flex: 0 0 33.333%;
+    max-width: 33.333%;
+    padding: 0 30px;
+}
+
+.card {
+    position: relative;
+    background-color: #0dbe39;
+    color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-title {
+    text-align: center;
+    padding: 20px 25px 5px;
+    font-size: 20px;
+    font-weight: 500;
+
+
+}
+
+.card:hover .card-title:before {
+    opacity: 0.8;
+    transform: scale(0.6);
+}
+
+.card-description {
+    padding: 5px 25px 20px;
+}
+
+
+.footer-48201 {
+    background: #000;
+}
+
+.footer-48201 {
+    padding: rem 0;
+    background-color: #000;
+    color: #777;
+}
+
+.footer-48201 .footer-site-logo {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.footer-48201 .nav-links li {
+    margin-bottom: 10px;
+}
+
+.footer-48201 .nav-links li a {
+    color: rgb(133, 119, 119);
+}
+
+.footer-48201 .nav-links li a:hover {
+    color: #fff;
+}
+
+.footer-48201 .btn.btn-tertiary {
+    background-color: #e42c64;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.footer-48201 .social li {
+    display: inline-block;
+}
+
+.footer-48201 .social li a {
+    color: gray;
+    padding: 7px;
+}
+
+.footer-48201 .social li a:hover {
+    color: #fff;
+}
+
+.footer-48201 .copyright {
+    border-top: 1px solid #404040;
+}
+
+.heading {
+    font-size: x-large;
+    font-style: unset;
+    text-align: center;
+
+}
+
+.col-md {
+    margin-top: 2cm;
+}
+
+.btn-success {
+    margin-left: 14cm;
+    margin-top: 2cm;
+}
+
+
+
+.card-head {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.card-text {
+    padding: 1rem;
+}
+
+
+
+
+.box {
+    background-color: #0dbe39;
+    width: 23cm;
+    height: 12cm;
+    margin-left: 20px;
+    background-image: url('logo/hipwee-videoblocks-beautiful-asian-female-person-working-in-front-of-white-big-monitor-in-business-office-concept-female-asian-work-in-office-business-style_hwjcm5rkf_thumbnail-full01.png');
+    background-size: cover;
+    float: right;
+}
+
+.head-cok {
+    padding-left: 35px;
+    font-family: 'Raleway', sans-serif;
+    color: #0dc43a;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.wefe {
+    width: 12cm;
+    height: 12cm;
+
+}
+
+.isi-wefe {
+    text-align: left;
+    padding: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+
+}
+
+.btn1-success {
+    background-color: #0dbe39;
+    color: #fff;
+
+}
+
+.card-title0 {
+    font-size: 27px;
+    font-family: 'Raleway', sans-serif;
+    color: #0dc43a;
+    font-weight: bolder;
+}
+
+.card-text0 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
+
+.col {
+    background-color: aqua;
+    width: 80%;
+}
+
+.card8 {
+    position: relative;
+}

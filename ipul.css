@@ -1,0 +1,29 @@
+.visi {
+    width: 600px;
+    height: 400px;
+    margin-left: 20px;
+    background-image: url('logo/5afbc3ef670cf138178c4913b68563f2.jpg');
+    float: left;
+
+}
+
+
+
+
+
+.paragrap {
+    margin-left: 30px;
+    background-color: aqua;
+    width: 600px;
+    height: 400px;
+    display: inline;
+    float: left;
+    margin-right: 2cm;
+
+}
+
+p {
+
+    margin-top: 5cm;
+    padding-top: 6rem;
+}
